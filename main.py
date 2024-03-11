@@ -1,4 +1,4 @@
-# Nolan Jaeger Data Analysis Project 1
+# Nolan Jaeger Data Analysis Project 1: Mean, Std, Var calculator
 # This entrypoint file to be used in development. Start by reading README.md
 import mean_var_std
 from unittest import main
